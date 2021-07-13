@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Arca2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I'm Rolando Albarnez S.
+- 👀 I'm interested in software development, distributed systems and data science.
+- 🌱 I'm currently learning about dapps and solidity programming language.
+- 💞️ I am looking to collaborate on dapp or distributed systems projects.
+- 📫 How to contact me; just email me at ralbarne@alumnos.inf.utfsm.cl
 
 <!---
 Arca2/Arca2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
